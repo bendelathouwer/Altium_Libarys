@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-25112014-117273";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"AMPMODU Unshrouded Headers 40 MODII HDR DRST UNSHRD A/PIN";"";
+"TraceParts.InstanceId";"10-25112014-11727387N3BE6ENELXFW6WKZTGHCRV7";"";
+"TraceParts.PartLanguage";"en";"";
+"MPN";"6-103233-9";"";
+"TraceParts.ClassPath";"TE_CONNECTIVITY:/TE_CONNECTIVITY/TE_CONNECTIVITY.180/10-25112014-117273";"";
+"SUPPLIER";"TE Connectivity";"";
+"DESIGN";"AMPMODU Unshrouded Headers 40 MODII HDR DRST UNSHRD A/PIN";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
